@@ -2,9 +2,36 @@
 nannono/nannono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Fernanda Ono
 
-## Fernanda Ono
-📫 How to reach me: ono.fernanda@outlook.com
+> I'm a software engineer based in São Paulo - Brazil.
+> 
+
+# ☎️ Contact information
+
+📧 ono.fernanda@outlook.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandaono/)
+
+---
+
+# 🛠 Skills
+
+## 💻 Technology
+
+### Javascript ⭐️⭐️
+
+My first programming language I've studied in Laboratoria bootcamp. 
+
+---
+
+## 🗣 Languages
+
+### Portuguese
+
+Native speaker
+
+---
 
 <div align="center">
   <a href="https://github.com/nannono">

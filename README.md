@@ -27,7 +27,7 @@ My first programming language I've studied in Laboratoria bootcamp.
 
 ## 🗣 Languages
 
-### Portuguese
+### Portuguese 🇧🇷
 
 Native speaker
 

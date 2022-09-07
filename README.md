@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Technology
 
-### Javascript ⭐️⭐️
+### [Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+) ⭐️⭐️
 
 My first programming language I've studied in Laboratoria bootcamp. 
 

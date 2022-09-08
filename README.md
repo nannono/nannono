@@ -33,5 +33,5 @@ Native speaker
 
 <div align="center">
   <a href="https://github.com/nannono">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nannono&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nannono&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>

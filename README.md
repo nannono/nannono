@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 > I'm a software engineer based in São Paulo - Brazil.
 > 
 
-#(☞ﾟヮﾟ)☞Contact information
+# (☞ﾟヮﾟ)☞Contact information
 
 📧 ono.fernanda@outlook.com
 

@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" height="502" width="502" src="https://cdn.discordapp.com/attachments/728426419733921853/1017992398405652551/octocat-1662590698271.png">
   <div align="right">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nannono&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nannono&layout=compact&langs_count=7&theme=rose_pine"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nannono&layout=compact&langs_count=7&theme=rose_pine"/>
   </div> 
 </div>
   
